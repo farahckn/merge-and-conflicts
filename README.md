@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LOCAL
 Hello Farah !
 
